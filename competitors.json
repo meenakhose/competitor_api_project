@@ -1,0 +1,44 @@
+{
+  "competitor_related": [
+    {
+      "id": 1,
+      "name": "Alibaba",
+      "ads_count": 100,
+      "reviews": 50,
+      "rating": 3.5,
+      "updated_at": "2025-04-11 18:46:31.289605"
+    },
+    {
+      "id": 2,
+      "name": "Walmart",
+      "ads_count": 105,
+      "reviews": 53,
+      "rating": 3.6,
+      "updated_at": "2025-04-11 18:46:31.289621"
+    },
+    {
+      "id": 3,
+      "name": "Otto",
+      "ads_count": 110,
+      "reviews": 56,
+      "rating": 3.7,
+      "updated_at": "2025-04-11 18:46:31.289624"
+    },
+    {
+      "id": 4,
+      "name": "JD.com",
+      "ads_count": 115,
+      "reviews": 59,
+      "rating": 3.8,
+      "updated_at": "2025-04-11 18:46:31.289626"
+    },
+    {
+      "id": 5,
+      "name": "Priceline",
+      "ads_count": 120,
+      "reviews": 62,
+      "rating": 3.9,
+      "updated_at": "2025-04-11 18:46:31.289628"
+    }
+  ]
+}
